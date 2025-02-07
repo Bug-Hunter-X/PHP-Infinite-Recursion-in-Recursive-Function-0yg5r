@@ -1,0 +1,1 @@
+This repository demonstrates an example of an infinite recursion bug in PHP and its solution.  The `bug.php` file contains a recursive function that can lead to an infinite loop if not handled properly. The `bugSolution.php` file shows how to correctly handle the recursive call using a base case to prevent infinite recursion.
